@@ -1,8 +1,9 @@
-# YooBee Web & UX 2019: Assignment 3
+# BubbleBox Creative
 
 Hello! We are four [YooBee School of Design](https://www.yoobee.ac.nz/?gclid=EAIaIQobChMIm4a1oNvV4QIVQg4rCh1bNA3hEAAYASAAEgJN__D_BwE) students each working on an individual web application to run as part of this group project. 
 
-Jeremy and Jack are creating interfaces to showcase Behance designer portfolios; Geoff and Holly are creating place-finder apps for a particular destination.
+Jack is
+creating interfaces to showcase Behance designer portfolios
 
 This assignment constitutes part of our course at [YooBee](https://www.yoobee.ac.nz/); as such it is purely for educational purposes, but if you are interested then please [get involved](https://github.com/sargimo/Assignment-3-take-2/blob/dev/CONTRIBUTING.md)!
 
